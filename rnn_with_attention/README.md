@@ -1,7 +1,7 @@
 # Applied Deep Learning Homework 1
 
 ## Requirements
-PyTorch >= 1.0.0
+PyTorch >= 1.0.0 
 Python >= 3.6
 ## How to train my model
 
