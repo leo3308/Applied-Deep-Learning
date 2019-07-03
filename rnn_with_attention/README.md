@@ -1,4 +1,8 @@
 # Applied Deep Learning Homework 1
+
+## Requirements
+PyTorch >= 1.0.0
+Python >= 3.6
 ## How to train my model
 
 1. prepare train.json, valid.json, crawl-300d-2M.vec in data folder
