@@ -35,6 +35,6 @@ python3 plot.py ../data
 ```
 ![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/rnn_with_attention/img/atten_visualize.png)
 
-### Task Slids
+### Task Slides
 
 https://docs.google.com/presentation/d/15LCy7TkJXl2pdz394gSPKY-fkwA3wFusv7h01lWOMSw/edit#slide=id.p
