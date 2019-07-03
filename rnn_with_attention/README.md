@@ -17,6 +17,13 @@ python3 train.py ../models/example
 
 ```
 
+4. predict test data
+```
+bash ./rnn.sh /path/to/test.json /path/to/predict.csv
+or 
+bash ./attention.sh /path/to/test.json /path/to/predict.csv
+```
+
 ## How to plot my figure
 1. make sure that embedding.pkl and valid.json in the data folder
 
@@ -26,3 +33,4 @@ cd ../src
 python3 plot.py ../data
 
 ```
+![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/rnn_with_attention/img/atten_visualize.png)
