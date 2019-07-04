@@ -38,4 +38,6 @@ bash ./best.sh /your/test.csv/ /your/path/to/output/file
 ### Reference 
 PyTorch Pretrained Model : https://github.com/huggingface/pytorch-pretrained-BERT
 
+Task Slides : https://docs.google.com/presentation/d/1dK1IubKXqseagzMlDEEFO4M0Gp7qedv78le3cw5rKcM/edit#slide=id.g520e10e595_0_271
+
 
