@@ -71,19 +71,22 @@ testing SuperMarioBros:
 ### Policy Gradient in LunarLander Game 
 
 * The training curve of policy gradient w/ and w/o baseline
+
     ![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/Reinforcement_Learning/picture/policy_gradient.png)
 
 ### Deep Q-Learning in Atari Game
 
 * The training curve of DQN and DDQN
+
     ![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/Reinforcement_Learning/picture/dqn%26ddqn.png)
 
-* The training curve of comparing different  $\gamma$  in DQN
+* The training curve of comparing different  gamma  in DQN
     ![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/Reinforcement_Learning/picture/gamma_curve.png)
 
 ### Advantage Actor-Critic in Mario Game
 
 * The training curve of A2C
+
     ![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/Reinforcement_Learning/picture/mario_curve.png)
 
 ## Reference
