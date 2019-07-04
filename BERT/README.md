@@ -1,7 +1,10 @@
 # Applied Deep Learning Homework 2
 ## Description
-In this case, I fine tune the BERT pretrained model.
-I modified the run_classifier.py into my task.
+In this case, I fine tune the BERT pretrained model. \\
+I modified the run_classifier.py into my task.  \\
+The training data is just like the following figure. \\
+![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/BERT/img/train_pic.png)
+This task is to predict the class of the given sentence.
 
 
 ### How to train my model
