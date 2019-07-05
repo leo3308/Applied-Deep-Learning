@@ -89,6 +89,20 @@ testing SuperMarioBros:
 
     ![](https://github.com/leo3308/Applied-Deep-Learning/blob/master/Reinforcement_Learning/picture/mario_curve.png)
 
+
+## how to plot the figure in report 
+1. policy gradient
+    * step1 : open agent/agent_pg.py 5, 94-111, 145 lines 
+    * step2 : run ```pip install matlplotlib```
+    * step2 : run ```python3.6 main.py --train_pg```
+    * step3 : run ```python3.6 draw_pgline.py```
+2. DQN
+    * step1 : open agent/agent_dqn.py 9, 207-224, 288 lines
+    * step2 : run ```pip install matlplotlib```
+    * step2 : run ```python3.6 main.py --train_dqn```
+    * step3 : run ```python3.6 draw_dqnline.py```
+
+
 ## Reference
 
 * task slides : https://docs.google.com/presentation/d/1qUNvX2x5C1m45ctLPWDAoIEry3tBqkqAZRjrrgDWoU0/edit#slide=id.g5515f01538_0_623
